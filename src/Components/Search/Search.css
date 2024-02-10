@@ -1,0 +1,26 @@
+
+/* the search bar and the search label "Search" */
+.css-1ff8729-MuiInputBase-root-MuiFilledInput-root,
+.css-e4w4as-MuiFormLabel-root-MuiInputLabel-root {
+
+width: 70%;
+margin-left: 15rem; 
+
+}
+
+/* .search {
+    display: flex;
+    margin: 15px 0;
+  } */
+
+
+  .trending {
+    width: 20rem;
+    margin-left : 50rem;
+  
+  }
+
+
+  .css-sghohy-MuiButtonBase-root-MuiButton-root {
+    margin-left: -10rem !important;
+  }

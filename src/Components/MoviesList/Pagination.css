@@ -1,0 +1,4 @@
+.active.pageNumber {
+  background-color: var(--mainColor) !important;
+  color: white !important;
+}
